@@ -1,10 +1,4 @@
-- 👋 Hi, name is Kyle Kekawa I am a entry level coder hoping one day to make into the big leagues 
-- 👀 I’m interested in becoming a FAANG SWE orrrrr a game developer :) !!!!
-- 🌱 I’m currently learning C++ / Dabling in unreal engine. 
-- 💞️ I’m looking to collaborate on freelancing projects and making small indie games in my freetime 
-- 📫 How to reach me KyleKekawa@gmail.com :) !
+My name is Kyle Kekawa and I'm currently a third year Computer Engineering major at California State University - Long Beach. Ever since I started FIRST Coding in high school, I've gained a fascination of the systems of complex engineering from around the world in competitive environments. Within this industry, my goal is to always be precise and diligent with all of my work, to be the best within this industry.
 
-<!---
-KyleKekawa/KyleKekawa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+To aim for my goal, I've started taking computer language and mathematics heavy courses while also learning new techniques outside of classes. In addition, I've participated in a variety of team projects that helped us utilize our coding ideas into reality.
